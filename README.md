@@ -1,14 +1,18 @@
 # CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 
+# COMPANY: CODTECH IT SOLUTIONS
 
+# NAME: SAMIKSHA SUDHAKAR SONUNE
 
+# INTERN ID: CT4MWL122
 
+# DOMAIN: FULL STACK WEB DEVELOPMENT
 
+# DURATION: 4 Months
 
+# MENTOR: NEELA SANTHOSH KUMAR
 
-
-
-# Website Tracker Chrome Extension
+**DESCRIPTION:** Website Tracker Chrome Extension
 
 The **Website Tracker** Chrome extension helps you monitor and manage your web browsing habits by tracking the time spent on each website. Additionally, it provides analytics in the form of graphs and charts, allowing you to visualize your usage patterns.
 
@@ -61,3 +65,11 @@ This Chrome extension leverages a stack of technologies, with a primary focus on
 - **Chart.js**: Utilized for creating interactive and visually appealing charts within the extension.
 
 - **Chrome Storage (chrome.storage.local)**: Incorporated to manage local storage, enabling the extension to persistently store and retrieve data.
+
+## Output:
+
+<img width="346" alt="Image" src="https://github.com/user-attachments/assets/c98b78ed-8e4d-4dfb-81a9-e89a9d09441d" />
+
+https://github.com/user-attachments/assets/478b3f21-bb58-4f34-bf33-8a7dd96ac2b6
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
